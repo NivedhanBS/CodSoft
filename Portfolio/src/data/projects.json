@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Online Voting Platform",
+    "imageSrc": "projects/voting.png",
+    "description": " This project aims to develop a secure and user-friendly online voting platform .",
+    "skills": ["Django", " MySQL", "HTML","CSS"],
+    
+    "source": "https://github.com/NivedhanBS/Online-Voting-system"
+  },
+  {
+    "title": " E-Waste Management Website",
+    "imageSrc": "projects/ewaste.png",
+    "description": "e-waste management website aimed at promoting recycling and responsible disposal of electronic waste.",
+    "skills": [" PHP", "JavaScript", "HTML", "CSS"," MySQL"],
+    
+    "source": "https://github.com/NivedhanBS/E-waste-management-website"
+  },
+  {
+    "title": "Online Food delivery",
+    "imageSrc": "projects/foodz.png",
+    "description": "This is a project made to Deliver the food online.",
+    "skills": ["HTML", "CSS","Express", "Node"," MySQL"],
+    
+    "source": "https://github.com/NivedhanBS/food"
+  }
+]
